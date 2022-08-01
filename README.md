@@ -90,4 +90,4 @@ Link | Name
 [FM](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Computer%20Networks%20-%20Amrita%20Banerjee) | FM (Financial Management)
 [HRM](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Financial%20and%20Cost%20Accounting%20-%20Jasmin%20Bid) | HRM (Human Resource Management)
 [CT](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Cryptology%20-%20%20Sarika%20Bansal) | CT (Cryptology)
-[ASTMA](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Advanced%20social%20Text%20and%20media%20analysis%20-%20Prof.%20Chandravadan%20Prajapati) | ASTMA (Advanced social Text and media analysis) 
+[MC](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Mobile%20Computing%20-%20Prof.%20Preeti%20Godabole) | MC (Mobile Computing) 
