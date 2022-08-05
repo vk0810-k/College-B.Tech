@@ -1,0 +1,30 @@
+ask prajapati about service level agreement
+
+what are the devilerable in acceptance pdlc of project or functionality
+
+since there is shortage of team members do we have to 
+
+how to calculate number of persond since no. of person  is limioted to 5 do we havee to addd different roles including that of team members
+
+PL PL SM Name should be added in staff register or not
+
+to rember by VK
+Only you can answer this question by measuring or
+
+ estimating the bandwidth usage based on the number of queries and/or transactions and the size of the dataset per query and/or transaction, multiplied by the number of queries and/or transactions over a specific period of time.
+
+WHAT IS Update skills in HumaRIS/Skill rating template for PCAP  (Y/N)
+
+
+SHOULD WE HAVE TO ESTIMATE PROJECT SPAN USING ESTIMATE TOOLS OR ESTIMATE.
+
+IN WORK ALLOCATION SHEET WHAT SHOULD BE PDLC.
+
+How to calculate plan effort for each of the work in work allocation sheet.
+
+BCP REPORT??
+
+
+how to fill Business Continuity Plan part without BCP report
+
+how to calculate plan effort and number of resources in work allocation sheets.

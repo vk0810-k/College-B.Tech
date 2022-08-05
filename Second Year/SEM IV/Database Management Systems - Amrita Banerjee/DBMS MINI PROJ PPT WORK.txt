@@ -1,0 +1,23 @@
+PPT 15 mks
+Cover 
+1- Introduction
+	What all is in it
+	Application of the database
+	Intro to lib management
+	Why cant we use google (whats spl about the database)
+	
+2-Platform/Methods used 
+	Platform:SQL Workbench add a Little bit intro here
+	Methods:Usage of MS Excel
+3- Protocols and Data Analysis
+	Protocols: Constraints like integriety the foriengn key primary key nulll val use
+	Data Analysis wid snapshots of op: which book used n which not
+			top 5/10 books used	
+			top 5/10 books least used
+			Which person has issued the most book with SAPID NAME N BOOK
+			Will add input also in SQL 
+
+
+TO BE SHOWN TO MAAM
+4- Final results by running the queries. 
+	Final result will be shown by sharing screen n perfoming live the inp

@@ -1,0 +1,11 @@
+Assignment - 10 marks
+---------------------
+
+1. Explain with example Undecidability and Decidabimerablty
+2. Explain in detail Enumerable and Recursively Enumerable Language
+3. Explain Rice Theorem
+4. Write short note on Post Correspondence Problem
+
+
+
+=============================================================================

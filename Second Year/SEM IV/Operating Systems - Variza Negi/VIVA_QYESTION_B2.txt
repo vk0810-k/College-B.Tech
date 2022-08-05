@@ -1,0 +1,35 @@
+Call with aryan
+What is paging
+What is starvation
+Coontext switching
+Process threat diff
+Preemptive n non-preemptive diff
+Processes used by pre-emptive n non-preemp
+Deadlock avoidance n prevention which one is better n why (Most IMP)
+What is segmentation
+What is external fragmentation
+In segmentation which type of fragmentation were used external or internal
+What is TLB
+In prevention what all processes were used?
+Bankers algo
+N the other algo as well
+Scheduling algos
+
+Call with Sim
+Non preemption difference 
+prevention n avoidance which is better (avoidance is better)
+Fix n variable 
+paging n segementation
+TLB Paging
+in prevention technique to stop 
+Scheduling algorithm
+Concurency
+TLB paging memory management after paging
+Process n thread difference n context switching
+in context swiching   	
+TLB
+Producer Consumer Prob
+
+Critical section how the problem is arised if told the defn
+process synchronization : how 2 process exist withoust affecting each other 
+advantages of multiple programming

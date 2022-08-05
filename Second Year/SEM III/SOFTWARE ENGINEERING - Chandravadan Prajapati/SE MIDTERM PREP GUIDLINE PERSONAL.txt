@@ -1,0 +1,15 @@
+Process, estimation, planning what we did till practicals, 
+design as I said including cohesion and coupling, 
+sei cmm 5 and uml diagrams. 
+
+All these we have practiced in practical sessions
+
+It should not be difficult to graps theory
+
+And also assignment
+
+Uml diagram study requirment, class and object diagram
+
+Requirements means use case diagram
+
+After ppt study book study is also must

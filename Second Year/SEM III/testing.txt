@@ -1,0 +1,39 @@
+system testing
+testing the whole module to work on different browser
+not functioning in other systems (other than the one on which its developed)
+
+
+Integration
+All the test units are working properly even after integration.
+
+
+Slideshow 
+Transition Lag
+Disorientation of image with changing screen size if browser
+
+
+Our Services
+Disorintation of text and image
+Image size and text size should be in standard format
+image and Text section not present
+
+
+Our Vision
+Disorintation of text
+text size should be in standard format
+Text section not present
+
+
+EMI Calculator
+non numeric data are entered
+numeric value beyond allowed limit
+Disorintation of text and textbox
+javascript formula not functioning in seprate browser.
+test the maximum charcter length of every field to ensure that the data is not truncated
+time duration for the required output to come
+dom element not functioning properly (time more than 5 sec , not output shown)
+
+News Section
+Disorintation of text and image
+Image size and text size should be in standard format
+image and Text section not present

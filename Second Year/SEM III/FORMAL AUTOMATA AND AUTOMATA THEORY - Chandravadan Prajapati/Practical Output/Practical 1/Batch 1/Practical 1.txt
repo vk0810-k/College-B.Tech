@@ -1,0 +1,8 @@
+1. Prepare a report on applications / usage of Formal Automata Theory / Theoretical Computer Science. Prepare a research report on all tools available in the market for doing formal automata.
+
+2. Install the JFlap tool and explore it by trying DFA and NFA diagram for the problem statement given in qt. 3
+     URL Help: http://www.jflap.org/tutorial/fa/createfa/fa.html#setInitialState
+	JDK 8.0 and JFLAP.
+	Set PATH and CLASSPATH varaiable in system settings.
+
+3. Design a Finite Automata that reads the strings made up of language [0,1] and accepts only those strings which end in either '00' or '11'.

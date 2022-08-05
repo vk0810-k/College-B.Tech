@@ -1,0 +1,19 @@
+Open Book Test in Tuorial sessions - Formal Language and Automata theory
+------------------------------------------------------------------------
+
+27th July 2020 - Preliminaries and Finite State Machines
+3rd August 2020 - Regular Expressions
+10th August 2020 - Turing Machines
+17th August 2020 - Grammar
+24th August 2020 - Push Down Memory Machine
+31st August 2020 - Undecidability
+7th September 2020 - Complexity Classifications of Problems
+
+All above exams will be for 5 marks. Later the score will be reduced to 20 marks for the above test.
+
+10 marks for your Assignments
+10 marks for ICA 1
+10 marks for ICA 2
+
+
+In case of ICA exams test dates will get automatically shifted for next tutorial session.

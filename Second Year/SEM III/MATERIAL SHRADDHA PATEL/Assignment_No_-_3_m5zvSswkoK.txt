@@ -1,0 +1,5 @@
+
+1. For a binary adder
+	a. Draw FSM
+	b. Draw an equivalent Moore Machine
+	c. Draw an equivalent Mealy machine

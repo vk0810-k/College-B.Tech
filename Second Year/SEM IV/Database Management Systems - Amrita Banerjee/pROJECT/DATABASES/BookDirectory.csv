@@ -1,0 +1,31 @@
+﻿Sr. No.,ISBN,BookCode,BookTitle,Author,Edition
+1,978-3-21-13552-00,IB001,"Introduction to Automata Theory, Languages, and Computation","John E. Hopcroft, Rajeev Motwani and Jeffrey D. Ullman",8
+2,978-3-21-13552-01,IB002,Elements of the Theory of Computation,Harry R. Lewis and Christos H. Papadimitriou,6
+3,978-3-21-13552-02,IB003,Automata and Computability,Dexter C. Kozen,7
+4,978-3-21-13552-03,IB004,Introduction to the Theory of Computation,Michael Sipser,7
+5,978-3-21-13552-04,IB005,Introduction to Languages and the Theory of Computation,John Martin,2
+6,978-3-21-13552-05,IB006,Theory Of Computation,Vivek Kulkarni ,5
+7,978-3-21-13552-06,IB007,Computers and Intractability: A Guide to the Theory of NP Completeness,M. R. Garey and D. S. Johnson,3
+8,978-3-21-13552-07,IB008,Computer System Architecture,M. M. Mano,3
+9,978-3-21-13552-08,IB009,Computer Organization and Design: The Hardware/Software Interface,David A. Patterson and John L. Hennessy,1
+10,978-3-21-13552-09,IB010,Computer Organization and Embedded Systems,Carl Hamacher,10
+11,978-3-21-13552-10,IB011,Computer Architecture and Organization,John P. Hayes,6
+12,978-3-21-13552-11,IB012,Computer Organization and Architecture: Designing for Performance,William Stallings,7
+13,978-3-21-13552-12,IB013,Computer System Design and Architecture,Vincent P. Heuring and Harry F. Jordan,7
+14,978-3-21-13552-13,IB014,The C++ Programming Language,Bjarne Stroustrup qnd Addison Wesley,7
+15,978-3-21-13552-14,IB015,"C++ and Object-Oriented Programming Paradigm,",Debasish Jana,5
+16,978-3-21-13552-15,IB016,Programming – Principles and Practice Using C++,Bjarne Stroustrup and Addison Wesley,6
+17,978-3-21-13552-16,IB017,The Design and Evolution of C++,Bjarne Stroustrup and Addison Wesley,7
+18,978-3-21-13552-17,IB018,Software Engineering,Ian Sommerville,4
+19,978-3-21-13552-18,IB019,Fundamentals of Software Engineering,"Carlo Ghezzi, Jazayeri Mehdi, Mandrioli Dino",8
+20,978-3-21-13552-19,IB020,"Software Requirements and Specification: A Lexicon of Practice, Principles and Prejudices",Michael Jackson,6
+21,978-3-21-13552-20,IB021,The Unified Development Process,"Ivar Jacobson, Grady Booch and James Rumbaugh",7
+22,978-3-21-13552-21,IB022,Object-Oriented Software Construction,Bertrand Meyer,7
+23,978-3-21-13552-22,IB023,Object Oriented Software Engineering: A Use Case Driven Approach,Ivar Jacobson,2
+24,978-3-21-13552-23,IB024,An Introduction to Multivariate Statistical Analysis,T.W. Anderson,5
+25,978-3-21-13552-24,IB025,Applied Multivariate Data Analysis,J.D. Jobson,3
+26,978-3-21-13552-25,IB026,Statistical Tests for Multivariate Analysis,H. Kris,3
+27,978-3-21-13552-26,IB027,Programming Python,Mark Lutz,1
+28,978-3-21-13552-27,IB028,Python 3 for Absolute Beginners,Tim Hall and J-P Stacey,3
+29,978-3-21-13552-28,IB029,Python for Data Analysis,Wes Mc Kinney,6
+30,978-3-21-13552-29,IB030,Cluster Analysis for Applications,M.R. Anderberg,7

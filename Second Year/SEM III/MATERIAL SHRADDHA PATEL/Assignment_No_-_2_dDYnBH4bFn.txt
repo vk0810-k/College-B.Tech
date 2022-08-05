@@ -1,0 +1,11 @@
+
+1. Describe in detail Structural Inductions and Mutual Inductions
+2. Design a a DFA to accept the language 
+	L = {w|w is of even length and begins with 01}
+3. Find the transitive closure and the symmetric closure of the relation
+	R= {(1,2), (2,3), (3,4), (5,4)}
+4. Construct and NFA that accepts any positive number of occurences of various string from the language L: L = {x|x is made up of {a, b} and ends with 'aab'}
+
+5. Explain with example three DFA minimization approach.
+
+=============================================================================

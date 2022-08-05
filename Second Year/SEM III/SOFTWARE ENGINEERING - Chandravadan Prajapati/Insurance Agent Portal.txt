@@ -1,0 +1,29 @@
+Develop a site something similar to the following website:
+
+1. www.amarbima.com
+2. gurujifinancial.in
+3. lifeassureinvestment.com
+4. nidhimultiservice.com
+5. balajiinsuranceservices.com
+6. bangaloreliceinsurance.com
+7. pramodmandavkar.com
+8. bhadreshlicagent.com
+9. www.licservice.in
+
+
+Lab Activities:
+(Practice all techniques listed during the class lectures)
+(Each successful activity completion carries 1 mark)
+
+1. Development of requirements specification
+2. Develop a Project Management Plan
+3. Carry out Estimation using various techniques
+4. High Level and Detail Design using SSAD and OOAD approach
+5. Sample Code in Java / C++ / phthon using the coding standards
+6. Test Case Design
+7. Testing - Unit Testing, Integration Testing, System Testing and Acceptance Testing, Speed Testing
+8. Defect Prevention activities
+9. Software Configuration management and Change Management
+10.Risk Management
+
+Make use of Case Tools / XLSX provided to carry out various activities.

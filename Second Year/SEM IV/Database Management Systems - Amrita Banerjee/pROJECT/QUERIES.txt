@@ -1,0 +1,17 @@
+/*which book used
+SELECT bookdirectory.BookTitle FROM bookdirectory,bookinventory WHERE 
+bookdirectory.BookCode = bookinventory.BookCode AND bookinventory.CopiesIssued > 0 */
+
+/*which book not used
+SELECT bookdirectory.BookTitle FROM bookdirectory,bookinventory WHERE 
+bookdirectory.BookCode = bookinventory.BookCode AND bookinventory.CopiesIssued = 0 */
+
+/*top 5/10 most books used
+SELECT bookdirectory.BookTitle , bookinventory.CopiesIssued FROM bookdirectory,bookinventory WHERE 
+bookdirectory.BookCode = bookinventory.BookCode ORDER BY bookinventory.CopiesIssued DESC LIMIT 5*/
+
+/*top 5/10 least books used*/*/
+
+/*Which person has issued the most book with SAPID NAME N BOOK*/
+SELECT studentdatabase.SAP , studentdatabase.StudentName , bookdirectory.BookTitle FROM bookdirectory , issuerecords , studentdatabase WHERE
+bookdirectory.BookCode = issuerecords.BookCode AND issuerecords.SAP = studentdatabase.SAP AND issuerecords.Status = 'NotReturned';
