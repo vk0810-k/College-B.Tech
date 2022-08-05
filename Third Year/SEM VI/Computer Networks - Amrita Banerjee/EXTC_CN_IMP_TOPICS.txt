@@ -1,0 +1,15 @@
+1. CSMA/CA AND CD (VERY COMMON)
+2. BELLMAN FORD/DIJKSTRA
+3. TCP UDP
+4. HDLC VERY COMMMON
+5.DNS
+6. ARQ (VERY COMMON)
+7. ALOHA
+8. IPV4(HEADER V COMMOn) /IPV6 
+9. ATM
+11. CONGESTION PROTOCOL common
+12. LEAKY TOKEN BUKET ALGO?(is this even there)
+13. SHORT NOTES ON STUFF LIKE WWW,HTTPS,SMTP,UDP, X.25(dunno this either) ETC
+14. Hamming code(again is this even there?)
+
+Numerical from datalink layer, IP address, dijkatra algorithm
