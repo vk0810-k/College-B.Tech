@@ -1,5 +1,5 @@
 # College-Material
-This repo contains all the study material of my College year in the couse of CsBS and SEM-wise....
+This repo contains all the study material of my College year in the course of CsBS and SEM-wise....
 
 ## [First Year](https://github.com/vk0810-k/College-B.Tech/tree/main/First%20Year) 
 Link | Name
@@ -85,9 +85,9 @@ Link | Name
 ### [SEM VII](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII)
  Link | Name
 ------------ | -------------
-[UDSA](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Artificial%20Intelligence%20-%20Ashish%20Patel) | UDSA (Usability Design of Software Applications)
+[UDSA](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Usability%20Design%20of%20Software%20Applications%20-%20Dr.%20Archana%20Gulati) | UDSA (Usability Design of Software Applications)
 [IT/WS](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/IT%20Workshop%20Skylab%20Matlab%20-%20Prof.%20Swati%20Rastogi) | IT/WS (IT Workshop Skylab / Matlab)
-[FM](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Computer%20Networks%20-%20Amrita%20Banerjee) | FM (Financial Management)
-[HRM](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Financial%20and%20Cost%20Accounting%20-%20Jasmin%20Bid) | HRM (Human Resource Management)
+[FM](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Financial%20Management%20-%20Prof.%20Jasmin%20Bid) | FM (Financial Management)
+[HRM](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Human%20Resource%20Management%20%20-%20Dr.%20Vibhav%20Singh) | HRM (Human Resource Management)
 [CT](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Cryptology%20-%20%20Sarika%20Bansal) | CT (Cryptology)
 [MC](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Mobile%20Computing%20-%20Prof.%20Preeti%20Godabole) | MC (Mobile Computing) 
