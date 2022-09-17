@@ -1,0 +1,20 @@
+				MANET
+1.	List the characteristics of Manet
+2.	Define the term dynamic topology
+3.	Explain the meaning of "every node is autonomous"
+4.	What do you understand by self-configuring n self-healing nodes
+5.	List pros n cons of Manets
+6.	What is manet and list the types of Manets
+7.	What is the concept of routing in Manet
+8.	Differentiate between proactive n reactive routing protocols in Manet
+9.	Explain DSDV Protocol with example
+10.	Highlight how count to infinity problem be solved using DSDV
+11.	Explain the working of GSR protocol along with example and format of all tables
+12.	Explain the process of identifying an optimal path in dynamic source routing with an example
+13.	Explain the working of AODV protocol
+				MIMO
+1.	Explain the concept of beam forming in MIMO
+2.	What is the advantage of MIMO technology
+3.	Differentiate between OFDM and FDM
+4.	Application of OFDM systems
+5.	Define the term MIMO and Diversity gain in MIMO
