@@ -82,6 +82,11 @@ Link | Name
 [MWA](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Modern%20Web%20Applications%20-%20Ashish%20Patel) | MWA (Modern Web Applications)
 
 ## [Fourth Year](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year) 
+Link | Name
+------------ | -------------
+[SEM-VII](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VII) | SEM VII
+[SEM-VIII](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VIII) | SEM VIII
+
 ### [SEM VII](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII)
  Link | Name
 ------------ | -------------
@@ -91,3 +96,5 @@ Link | Name
 [HRM](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Human%20Resource%20Management%20%20-%20Dr.%20Vibhav%20Singh) | HRM (Human Resource Management)
 [CT](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Cryptology%20-%20%20Sarika%20Bansal) | CT (Cryptology)
 [MC](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Mobile%20Computing%20-%20Prof.%20Preeti%20Godabole) | MC (Mobile Computing) 
+
+### [SEM VIII](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VIII)
