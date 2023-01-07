@@ -104,7 +104,7 @@ Link | Name
 [ES](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VIII/Enterprise%20Systems%20-%20Prof.%20Simran%20Sherifani) | ES (Enterprise Systems)
 [ITPM](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VIII/IT%20Project%20Management%20-%20Prof.%20Asha%20Rawat) | ITPM (IT Project Management)
 [IP](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VIII/Industrial%20Psychology%20-%20Prof.%20Simran%20Sherifani) | IP (Industrial Psychology)
-
+[MRMM](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VIII/Marketing%20Research%20%26%20Marketing%20-%20Dr.%20Krunal%20Punjani) | MRMM (Marketing Research & Marketing)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vk0810-k)
